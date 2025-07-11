@@ -1,6 +1,7 @@
 # CODTECH-TASK2
 
 #define RELAY_ON 0
+
 #define RELAY_OFF 1
 
 #define RELAY_1  4
